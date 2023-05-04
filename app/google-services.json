@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365436849974",
+    "project_id": "ad-campaing",
+    "storage_bucket": "ad-campaing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365436849974:android:0eae7dce5f2b6e60866d97",
+        "android_client_info": {
+          "package_name": "com.example.adcampaing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365436849974-6ktpbcp6d7bln2sqbu5d4ju9i39h93k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLe41dU1QbDVT5ZjlVg4_1-EIcTue8VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365436849974-6ktpbcp6d7bln2sqbu5d4ju9i39h93k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
